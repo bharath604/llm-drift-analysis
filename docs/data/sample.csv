@@ -1,0 +1,5 @@
+id,text,ground_truth,prediction
+1,"Customer is unhappy with service","negative","negative"
+2,"Product works as expected","positive","positive"
+3,"Delivery was late","negative","positive"
+4,"Great support team","positive","positive"
