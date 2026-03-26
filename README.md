@@ -26,3 +26,9 @@ This repository documents my work on evaluating Large Language Models (LLMs) usi
 - Add PySpark scripts for automated drift detection.
 - Upload sample datasets for reproducibility.
 - Integrate dashboards showing drift trends and accuracy scores.
+
+
+## Repository Structure
+
+- [/docs/methodology.md](docs/methodology.md) → Detailed methodology for drift and accuracy analysis
+- [/docs/data/sample.csv](docs/data/sample.csv) → Sample dataset with ground truth vs. predictions
