@@ -29,6 +29,7 @@ This repository documents my work on evaluating Large Language Models (LLMs) usi
 
 
 ## Repository Structure
+- [/docs/methodology.md](docs/methodology.md) → Detailed methodology
+- [/docs/data/sample.csv](docs/data/sample.csv) → Sample dataset
+- [/notebooks/demo.ipynb](notebooks/demo.ipynb) → Demo notebook with workflow and sample analysis
 
-- [/docs/methodology.md](docs/methodology.md) → Detailed methodology for drift and accuracy analysis
-- [/docs/data/sample.csv](docs/data/sample.csv) → Sample dataset with ground truth vs. predictions
